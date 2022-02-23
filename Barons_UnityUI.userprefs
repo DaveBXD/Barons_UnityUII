@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skripti\Attela Lielums.cs">
+    <Files>
+      <File FileName="Assets\Skripti\AttelaTuretajs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skripti\TekstaRadisana.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skripti\OjektuParadisana.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skripti\Attela Lielums.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skripti\Kursors uz attela.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
